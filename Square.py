@@ -15,7 +15,7 @@ def draw_square():
     brad.forward(100)
     brad.right(90)
     brad.forward(100)
-    brad.right(90)
+    brad.right(45)
 
     Fadil = turtle.Turtle()
     Fadil.shape("classic")
